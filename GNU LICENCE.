@@ -1,0 +1,30 @@
+The GNU General Public License:
+
+Introduction:
+The GNU General Public License (GPL) is a widely used open-source software license that has played a significant role in shaping the landscape of free and open-source software (FOSS). This case study explores the history, principles, and impact of the GPL.
+
+Background:
+The GPL was created by Richard Stallman in 1989 as part of the GNU Project, an ambitious initiative to develop a free Unix-like operating system. The GPL aimed to address the issue of software freedom by granting users specific rights and freedoms when using, modifying, and distributing GPL-licensed software.
+
+Key Principles of the GPL:
+
+Freedom to Use: Users are free to run, study, and use GPL-licensed software for any purpose.
+Freedom to Modify: Users have the right to modify the source code of GPL-licensed software and distribute their modified versions.
+Copyleft: The GPL employs a unique copyleft mechanism that requires derivative works to be licensed under the GPL as well. This ensures that the software remains open and free.
+Source Code Availability: GPL-licensed software must include the source code or a written offer to provide it.
+Impact and Case Studies:
+
+Linux Kernel: The Linux operating system kernel is one of the most prominent examples of GPL-licensed software. The GPL's copyleft provisions have ensured that countless contributions to the Linux kernel are also open source.
+
+GNU Compiler Collection (GCC): GCC is a widely used compiler suite for various programming languages, released under the GPL. It has had a profound impact on software development and has been instrumental in the FOSS movement.
+
+WordPress: WordPress, a popular content management system (CMS), uses the GPL. This has led to a thriving ecosystem of plugins and themes, all sharing the principles of the GPL.
+
+Blender: Blender, a 3D computer graphics software, is another example of a GPL-licensed project. It has fostered a collaborative community of artists and developers.
+
+TiVoization: The GPL has also sparked debates around "TiVoization," where some companies have used GPL-licensed software in hardware while preventing users from modifying it. This has led to revisions in the GPL, such as GPLv3, to address these concerns.
+
+Conclusion:
+The GNU General Public License has played a pivotal role in promoting software freedom, fostering collaborative development, and shaping the open-source software landscape. Its copyleft provisions have ensured that the spirit of openness is maintained even as GPL-licensed software evolves and adapts to changing technologies and user needs.
+
+This case study highlights how the GPL's principles have impacted various projects and industries, making it a crucial component of the FOSS movement. It serves as a model for licensing that empowers users and encourages innovation while preserving the ideals of software freedom.
